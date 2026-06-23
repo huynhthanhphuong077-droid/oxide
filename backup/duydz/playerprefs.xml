@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="JHtzczZiIHxvdyFkIH19cyhi">QCMCADH3kjg%3D</string>
+    <int name="PopupShownCount" value="1" />
+    <int name="fps_counter" value="0" />
+    <string name="unity.player_sessionid">354281773583372184</string>
+    <int name="shadows_enabled" value="1" />
+    <float name="scope_sensitivity" value="0.5" />
+    <float name="gyroscope_holosight_sensitivity" value="1.0" />
+    <string name="downloaded_bundles">%5B%22map_9b18426%22%2C%22map_919f966%22%2C%22map_e8d0055%22%2C%22map_81c05fb%22%2C%22map_ffc665f%22%2C%22map_59a88bb%22%2C%22map_96c455b%22%2C%22map_c0d8dd3%22%2C%22map_ea4c46c%22%2C%22map_637e5d0%22%2C%22map_3ea374f%22%2C%22map_d2bc2eb%22%2C%22map_54f6a00%22%2C%22map_e94f60d%22%2C%22map_ee2b9b9%22%2C%22map_8fe8675%22%2C%22map_e9bf041%22%2C%22map_a5e513e%22%2C%22map_6db3055%22%5D</string>
+    <string name="unity_connect.mega_session_id">f9cf9286-2274-dea5-a8e3-802633681aac</string>
+    <int name="account_linked_GooglePlay" value="0" />
+    <int name="aim_camera_rotation" value="1" />
+    <int name="PremiumPurchaseScreenShownDayNumber" value="1" />
+    <int name="gyroscope_invert_horizontal" value="0" />
+    <int name="account_linked_Google" value="0" />
+    <string name="LANGUAGE">vi</string>
+    <string name="SERVERS_HISTORY">%7B%22servers%22%3A%7B%22c4cea6f4-4856-49ce-9bb9-be022cc2ab94%22%3A1782142999%2C%22fb645a3a-c3fb-4a12-aca6-da715df5fdec%22%3A1782142999%2C%22761cd037-fe12-44f7-823b-136895377723%22%3A1782142999%2C%22c01e6962-4702-4e3a-9f65-eb67b6ebb063%22%3A1782142999%2C%22379c3ee0-2ce1-403a-9b5e-95aad201fcbb%22%3A1782142999%2C%227e455479-3b35-47cc-87bb-6f31659bfa3d%22%3A1782142999%2C%22eaf826f7-2f51-4b09-a79f-a21fcddfc83a%22%3A1782142999%7D%7D</string>
+    <int name="RateUsPopupShown" value="1" />
+    <float name="gyroscope_sensitivity" value="1.0" />
+    <int name="screen_resolution" value="1" />
+    <string name="news.read.ids">%7B%22ids%22%3A%5B%22639168732000000000_Major%20Update%20Hits%20the%20Island_%5Bimg%5Dhttps%3A%2F%2Fcdn.oxidesurvival.c%22%2C%22639152928587100000_Eldritch%20Depths%3A%20Horrors%20of%20the%20Abyss_%5Bimg%5Dhttps%3A%2F%2Fcdn.oxidesurvival.c%22%2C%22639144522000000000_BIG%20update%20is%20live_%5Bimg%5Dhttps%3A%2F%2Fcdn.oxidesurvival.c%22%2C%22639126234000000000_Battle%20Pass%20New%20Season%3A%20%5C%22Protocol%3A%20Shadow%5C%22_%5Bimg%5Dhttps%3A%2F%2Fcdn.oxidesurvival.c%22%2C%22639174708000000000_The%20Massive%20Update%20Is%20Now%20Live_%5Bimg%5Dhttps%3A%2F%2Fcdn.oxidesurvival.c%22%5D%7D</string>
+    <int name="benchmark_completed" value="1" />
+    <int name="players_id" value="0" />
+    <string name="tutorial_statistics">%7B%22TutorialStatistics%22%3A%5B%7B%22Id%22%3A%22TutorialMissionConfig_0_0_go_to_instructor%22%2C%22ProgressTime%22%3A0.0167503357%2C%22Skipped%22%3Afalse%2C%22Completed%22%3Afalse%2C%22Started%22%3Atrue%2C%22TotalSteps%22%3A5%2C%22CurrentStep%22%3A1%7D%5D%2C%22EverStarted%22%3Afalse%2C%22EvenEnded%22%3Afalse%7D</string>
+    <int name="auto_ads_mode_sniper" value="2" />
+    <int name="PromoPopup_shownCount_premium" value="1" />
+    <int name="auto_farm" value="1" />
+    <int name="account_linked_GameCenter" value="0" />
+    <float name="sensitivity" value="3.0" />
+    <string name="catalogs_to_delete">%5B%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-919f966%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-e8d0055%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-81c05fb%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-ffc665f%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-59a88bb%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-96c455b%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-c0d8dd3%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-ea4c46c%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-637e5d0%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-3ea374f%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-d2bc2eb%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-e94f60d%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-54f6a00%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-ee2b9b9%2FAndroid%2Fcatalog_procedural_map.json%22%5D</string>
+    <string name="FirstLaunchDateTimeInvariant">2026-06-21T13%3A08%3A52.0155650Z</string>
+    <int name="PromoPopup_shownCount_push-notifications" value="1" />
+    <int name="PremiumPurchaseScreenFirstLaunchedAfterEnd" value="0" />
+    <int name="Screenmanager%20Resolution%20Height" value="720" />
+    <int name="show_old_interaction_ui" value="0" />
+    <int name="show_compass" value="1" />
+    <int name="ambience_sounds" value="100" />
+    <string name="unity_connect.session_id">cf65b4de-028c-fadd-1b74-67ef256d0283</string>
+    <float name="smooth_camera_value" value="1.0" />
+    <float name="gyroscope_scope_sensitivity" value="1.0" />
+    <string name="NoviceServerChooserShowed">true</string>
+    <int name="server_select.last_mode" value="4" />
+    <string name="membership-promo">639176443755815000</string>
+    <int name="account_linked_Facebook" value="0" />
+    <int name="lobby.history.hasAny" value="1" />
+    <int name="grass_enabled" value="1" />
+    <string name="unity.cloud_userid">e5f93566b6e16797695c2f389590024d</string>
+    <int name="account_linked_None" value="0" />
+    <int name="anti_aliasing_v3" value="0" />
+    <int name="game_info" value="1" />
+    <string name="I3FiZTJpJmpxcDJpLGx1exFZF1NSUwhVDQ%3D%3D">RyMCADH3kjg%3D</string>
+    <string name="KHFzZClpN31hYyNlMX10">TCMCADH3kjg%3D</string>
+    <int name="UnityGraphicsQuality" value="2" />
+    <int name="PromoPopup_shownCount_membership-promo" value="1" />
+    <float name="firing_sensitivity" value="1.0" />
+    <float name="double_click_delay" value="0.2" />
+    <int name="actions_camera_rotation" value="0" />
+    <int name="use_bluetooth_mic" value="0" />
+    <string name="unity_connect.installation_id">2e1a2b0c-fcd2-c006-3826-26536b75ee04</string>
+    <int name="PromoPopup_shownCount_offer-screen" value="28" />
+    <int name="Screenmanager%20Resolution%20Width" value="1280" />
+    <int name="outline_enabled" value="1" />
+    <float name="acceleration" value="1.0" />
+    <string name="LastShownTime">5250862461166111834</string>
+    <float name="holosight_sensitivity" value="0.8" />
+    <int name="account_linked_AppleSignIn" value="0" />
+    <int name="tutorial_state" value="18" />
+    <int name="gyroscope_mode" value="0" />
+    <string name="account_playfab_id">22B4E9C9578906EA</string>
+    <int name="double_click_enabled" value="1" />
+    <string name="lobby.history.lastServerId">eaf826f7-2f51-4b09-a79f-a21fcddfc83a</string>
+    <string name="I3FiZTJpJmpxcDJpKmh1eA%3D%3D">RyMCADH3kjg%3D</string>
+    <float name="benchmark_last_score_cpu" value="14.485348" />
+    <int name="sprint_mode" value="2" />
+    <float name="benchmark_last_score_gpu" value="6.038883" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="PromoPopup_shownCount_rate-us" value="1" />
+    <float name="gyroscope_aim_sensitivity" value="1.0" />
+    <string name="offerScreenPromo_ticks">639178019442700105</string>
+    <string name="tutorial_analytics_sent">%5B%22tutorial_start%22%2C%22tutorial_camera_look%22%5D</string>
+    <int name="attack_camera_rotation" value="1" />
+    <int name="floating_joystick" value="1" />
+    <int name="FirstLaunch" value="0" />
+    <int name="auto_reload" value="1" />
+    <int name="a80cf3f8-6930-4a5e-a62f-7225077ea461FirstOpenned" value="1" />
+    <int name="auto_ads_mode_shotgun" value="2" />
+    <int name="account_login_type" value="2" />
+    <int name="postprocessing" value="1" />
+    <int name="account_linked_Device" value="0" />
+    <int name="PremiumPurchaseScreenFirstShown" value="1" />
+    <string name="downloaded_catalogs">%5B%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-9b18426%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-8fe8675%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-e9bf041%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-a5e513e%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-6db3055%2FAndroid%2Fcatalog_procedural_map.json%22%5D</string>
+    <int name="information_off_screen_marker" value="1" />
+    <int name="interaction_hints_enabled" value="1" />
+    <int name="fov" value="60" />
+    <float name="aim_sensitivity" value="1.73" />
+    <string name="lobby.history.lastServerName">EU%20%2353%20Premium</string>
+    <int name="a80cf3f8-6930-4a5e-a62f-7225077ea461SecondOpenned" value="1" />
+    <int name="draw_distance_v2" value="8" />
+    <int name="lobby.tutorial.serverBrowser.completed" value="1" />
+    <int name="graphics_quality_v2" value="2" />
+    <int name="be41aa81-9f67-4f4b-91a0-cd2e52d93b6dFirstOpenned" value="1" />
+    <string name="unity.player_session_count">22</string>
+    <float name="benchmark_last_score_fps" value="59.999268" />
+    <string name="I3FiZTJpJmpxcDJpLGx1ewVDFVpfVxRSS0xfWQo%3D">RyMCADH3kjg%3D</string>
+    <int name="aim_assist" value="1" />
+    <int name="auto_ads" value="1" />
+    <int name="master_volume" value="100" />
+    <int name="gyroscope_invert_vertical" value="0" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="auto_ads_mode_crossbow" value="2" />
+    <string name="StoreCatalogPath">%2Fcatalog%2Fplayfab%2Fc12267da-9c50-4b92-ba9a-c32d0de76edf.json</string>
+    <int name="server_select.last_tab" value="1" />
+    <string name="I3FiZTJpNn1iYCNkOn1%2BYiNk">RyMCADH3kjg%3D</string>
+    <int name="settings.last_tab" value="0" />
+    <int name="be41aa81-9f67-4f4b-91a0-cd2e52d93b6dSecondOpenned" value="1" />
+    <int name="account_linked_PlayFab" value="0" />
+    <int name="prompt_sign_in" value="0" />
+</map>
