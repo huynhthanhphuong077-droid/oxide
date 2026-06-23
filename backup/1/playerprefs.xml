@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="JHtzczZiIHxvdyFkIH19cyhi">QCMCADH3kjg%3D</string>
+    <int name="PopupShownCount" value="1" />
+    <int name="fps_counter" value="1" />
+    <string name="unity.player_sessionid">3495180510103327454</string>
+    <int name="shadows_enabled" value="1" />
+    <float name="scope_sensitivity" value="0.5" />
+    <float name="gyroscope_holosight_sensitivity" value="1.0" />
+    <string name="downloaded_bundles">%5B%22map_c507d37%22%2C%22map_79d2964%22%2C%22map_6f56b46%22%2C%22map_c19c058%22%5D</string>
+    <string name="unity_connect.mega_session_id">6fbeaa26-83fb-d19f-0a8b-1fad3310ba94</string>
+    <int name="account_linked_GooglePlay" value="0" />
+    <int name="aim_camera_rotation" value="1" />
+    <int name="PremiumPurchaseScreenShownDayNumber" value="58" />
+    <int name="gyroscope_invert_horizontal" value="0" />
+    <int name="account_linked_Google" value="0" />
+    <string name="LANGUAGE">vi</string>
+    <string name="SERVERS_HISTORY">%7B%22servers%22%3A%7B%222aba476a-d00b-44e4-813e-b1dcf6b36d0a%22%3A1781898988%7D%7D</string>
+    <int name="RateUsPopupShown" value="1" />
+    <float name="gyroscope_sensitivity" value="1.8" />
+    <int name="screen_resolution" value="2" />
+    <int name="benchmark_completed" value="1" />
+    <int name="players_id" value="0" />
+    <string name="tutorial_statistics">%7B%22TutorialStatistics%22%3A%5B%7B%22Id%22%3A%22TutorialMissionConfig_0_0_go_to_instructor%22%2C%22ProgressTime%22%3A0.0155682564%2C%22Skipped%22%3Afalse%2C%22Completed%22%3Afalse%2C%22Started%22%3Atrue%2C%22TotalSteps%22%3A5%2C%22CurrentStep%22%3A1%7D%5D%2C%22EverStarted%22%3Afalse%2C%22EvenEnded%22%3Afalse%7D</string>
+    <int name="auto_ads_mode_sniper" value="2" />
+    <int name="PromoPopup_shownCount_premium" value="2" />
+    <int name="auto_farm" value="1" />
+    <int name="account_linked_GameCenter" value="0" />
+    <float name="sensitivity" value="1.35" />
+    <string name="catalogs_to_delete">%5B%5D</string>
+    <string name="FirstLaunchDateTimeInvariant">2026-04-26T10%3A36%3A32.3714940Z</string>
+    <int name="PromoPopup_shownCount_push-notifications" value="1" />
+    <int name="PremiumPurchaseScreenFirstLaunchedAfterEnd" value="1" />
+    <string name="AdGachaPromoPopup_ticks">639178127940564502</string>
+    <int name="Screenmanager%20Resolution%20Height" value="1080" />
+    <int name="show_old_interaction_ui" value="0" />
+    <int name="show_compass" value="1" />
+    <int name="ambience_sounds" value="100" />
+    <string name="unity_connect.session_id">ba6ab6c7-1623-b986-aa7b-cff3fbb8f4e2</string>
+    <float name="smooth_camera_value" value="0.5" />
+    <float name="gyroscope_scope_sensitivity" value="1.0" />
+    <string name="NoviceServerChooserShowed">true</string>
+    <int name="server_select.last_mode" value="2" />
+    <string name="membership-promo">639178068739293397</string>
+    <int name="account_linked_Facebook" value="0" />
+    <int name="lobby.history.hasAny" value="1" />
+    <int name="grass_enabled" value="1" />
+    <string name="unity.cloud_userid">7a2188e4d150da1d487f4a6f5dd203a7</string>
+    <int name="account_linked_None" value="0" />
+    <int name="com.unity.androidnotifications.PostNotificationsPermission" value="1" />
+    <int name="anti_aliasing_v3" value="0" />
+    <int name="game_info" value="1" />
+    <string name="KHFzZClpN31hYyNlMX10">TCMCADH3kjg%3D</string>
+    <int name="UnityGraphicsQuality" value="0" />
+    <int name="PromoPopup_shownCount_membership-promo" value="1" />
+    <float name="firing_sensitivity" value="1.0" />
+    <float name="double_click_delay" value="0.3" />
+    <int name="actions_camera_rotation" value="0" />
+    <int name="use_bluetooth_mic" value="0" />
+    <string name="unity_connect.installation_id">79280504-31ad-15d2-08fa-e69aa51eeae3</string>
+    <int name="PromoPopup_shownCount_offer-screen" value="8" />
+    <int name="Screenmanager%20Resolution%20Width" value="2400" />
+    <int name="outline_enabled" value="1" />
+    <float name="acceleration" value="0.2" />
+    <string name="LastShownTime">5250860989320108834</string>
+    <float name="holosight_sensitivity" value="0.8" />
+    <int name="account_linked_AppleSignIn" value="0" />
+    <int name="tutorial_state" value="18" />
+    <int name="PromoPopup_shownCount_AdGacha" value="2" />
+    <int name="gyroscope_mode" value="0" />
+    <string name="account_playfab_id">C267EDED1918276B</string>
+    <int name="double_click_enabled" value="1" />
+    <string name="lobby.history.lastServerId">2aba476a-d00b-44e4-813e-b1dcf6b36d0a</string>
+    <float name="benchmark_last_score_cpu" value="22.261349" />
+    <int name="sprint_mode" value="2" />
+    <float name="benchmark_last_score_gpu" value="12.964891" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <int name="PromoPopup_shownCount_rate-us" value="1" />
+    <float name="gyroscope_aim_sensitivity" value="1.0" />
+    <string name="offerScreenPromo_ticks">639178271746296850</string>
+    <string name="tutorial_analytics_sent">%5B%22tutorial_start%22%2C%22tutorial_camera_look%22%5D</string>
+    <int name="attack_camera_rotation" value="1" />
+    <int name="floating_joystick" value="1" />
+    <int name="FirstLaunch" value="0" />
+    <int name="auto_reload" value="1" />
+    <int name="auto_ads_mode_shotgun" value="2" />
+    <int name="account_login_type" value="2" />
+    <int name="postprocessing" value="0" />
+    <int name="account_linked_Device" value="0" />
+    <int name="PremiumPurchaseScreenFirstShown" value="1" />
+    <string name="downloaded_catalogs">%5B%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-c507d37%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-79d2964%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-6f56b46%2FAndroid%2Fcatalog_procedural_map.json%22%2C%22https%3A%2F%2Fcdn-proxied-cf.oxidesurvival.com%2Fmap-bundles%2Fmap-bundles-71ba654%2Fmap-c19c058%2FAndroid%2Fcatalog_procedural_map.json%22%5D</string>
+    <int name="information_off_screen_marker" value="1" />
+    <int name="interaction_hints_enabled" value="1" />
+    <int name="fov" value="70" />
+    <float name="aim_sensitivity" value="1.0" />
+    <string name="lobby.history.lastServerName">SINGAPORE%20%2313</string>
+    <int name="draw_distance_v2" value="8" />
+    <int name="lobby.tutorial.serverBrowser.completed" value="1" />
+    <int name="graphics_quality_v2" value="0" />
+    <string name="unity.player_session_count">27</string>
+    <float name="benchmark_last_score_fps" value="39.03662" />
+    <int name="aim_assist" value="1" />
+    <int name="auto_ads" value="1" />
+    <int name="master_volume" value="100" />
+    <int name="gyroscope_invert_vertical" value="0" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="auto_ads_mode_crossbow" value="2" />
+    <string name="StoreCatalogPath">%2Fcatalog%2Fplayfab%2Fc12267da-9c50-4b92-ba9a-c32d0de76edf.json</string>
+    <int name="server_select.last_tab" value="1" />
+    <string name="I3FiZTJpNn1iYCNkOn1%2BYiNk">RyMCADH3kjg%3D</string>
+    <int name="settings.last_tab" value="3" />
+    <int name="account_linked_PlayFab" value="0" />
+</map>
