@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="JHtzczZiIHxvdyFkIH19cyhi">QCMCADH3kjg%3D</string>
+    <int name="PopupShownCount" value="2" />
+    <int name="UnityGraphicsQuality" value="1" />
+    <int name="fps_counter" value="0" />
+    <string name="unity.player_sessionid">7584038274236735860</string>
+    <float name="firing_sensitivity" value="1.53" />
+    <float name="double_click_delay" value="0.39909095" />
+    <int name="actions_camera_rotation" value="0" />
+    <int name="shadows_enabled" value="1" />
+    <int name="use_bluetooth_mic" value="0" />
+    <string name="unity_connect.installation_id">f0753b09-1e08-3217-187e-c98c7ecc512c</string>
+    <int name="Screenmanager%20Resolution%20Width" value="3040" />
+    <int name="outline_enabled" value="0" />
+    <float name="scope_sensitivity" value="2.47" />
+    <float name="acceleration" value="1.0" />
+    <float name="gyroscope_holosight_sensitivity" value="1.0" />
+    <string name="downloaded_bundles">%5B%5D</string>
+    <string name="unity_connect.mega_session_id">882cc501-c44d-3df7-ba73-fb044c19d066</string>
+    <string name="LastShownTime">5250864080301541844</string>
+    <float name="holosight_sensitivity" value="2.58" />
+    <int name="aim_camera_rotation" value="1" />
+    <int name="tutorial_state" value="18" />
+    <int name="gyroscope_mode" value="0" />
+    <int name="gyroscope_invert_horizontal" value="0" />
+    <string name="account_playfab_id">BDD17E7FF22DF788</string>
+    <string name="LANGUAGE">vi</string>
+    <int name="double_click_enabled" value="1" />
+    <float name="benchmark_last_score_cpu" value="14.949626" />
+    <int name="sprint_mode" value="0" />
+    <float name="benchmark_last_score_gpu" value="11.778135" />
+    <int name="__UNITY_PLAYERPREFS_VERSION__" value="1" />
+    <float name="gyroscope_sensitivity" value="1.0" />
+    <int name="screen_resolution" value="1" />
+    <int name="benchmark_completed" value="1" />
+    <int name="players_id" value="0" />
+    <float name="gyroscope_aim_sensitivity" value="1.0" />
+    <string name="tutorial_statistics">%7B%22TutorialStatistics%22%3A%5B%7B%22Id%22%3A%22TutorialMissionConfig_0_0_go_to_instructor%22%2C%22ProgressTime%22%3A13.9811735%2C%22Skipped%22%3Afalse%2C%22Completed%22%3Afalse%2C%22Started%22%3Atrue%2C%22TotalSteps%22%3A5%2C%22CurrentStep%22%3A2%7D%5D%2C%22EverStarted%22%3Afalse%2C%22EvenEnded%22%3Afalse%7D</string>
+    <int name="auto_ads_mode_sniper" value="2" />
+    <string name="tutorial_analytics_sent">%5B%22tutorial_start%22%2C%22tutorial_camera_look%22%2C%22tutorial_first_move%22%5D</string>
+    <int name="attack_camera_rotation" value="1" />
+    <int name="auto_farm" value="1" />
+    <int name="floating_joystick" value="1" />
+    <int name="FirstLaunch" value="0" />
+    <float name="sensitivity" value="2.65" />
+    <string name="catalogs_to_delete">%5B%5D</string>
+    <int name="auto_reload" value="1" />
+    <string name="FirstLaunchDateTimeInvariant">2026-06-23T10%3A01%3A11.3460380Z</string>
+    <int name="auto_ads_mode_shotgun" value="2" />
+    <int name="PromoPopup_shownCount_push-notifications" value="2" />
+    <int name="account_login_type" value="2" />
+    <int name="Screenmanager%20Resolution%20Height" value="1440" />
+    <int name="show_old_interaction_ui" value="0" />
+    <int name="postprocessing" value="1" />
+    <int name="show_compass" value="1" />
+    <string name="downloaded_catalogs">%5B%5D</string>
+    <int name="information_off_screen_marker" value="1" />
+    <int name="interaction_hints_enabled" value="1" />
+    <int name="ambience_sounds" value="100" />
+    <int name="fov" value="60" />
+    <string name="unity_connect.session_id">580f418c-ee54-d55a-bae1-2da82698cc6e</string>
+    <float name="aim_sensitivity" value="2.49" />
+    <float name="smooth_camera_value" value="1.0" />
+    <int name="draw_distance_v2" value="8" />
+    <float name="gyroscope_scope_sensitivity" value="1.0" />
+    <int name="graphics_quality_v2" value="1" />
+    <string name="unity.player_session_count">1</string>
+    <float name="benchmark_last_score_fps" value="61.741455" />
+    <int name="aim_assist" value="1" />
+    <int name="auto_ads" value="1" />
+    <int name="master_volume" value="100" />
+    <int name="grass_enabled" value="1" />
+    <string name="unity.cloud_userid">709c9f94075cd1bfaa61cf89c9a09915</string>
+    <int name="gyroscope_invert_vertical" value="0" />
+    <int name="Screenmanager%20Fullscreen%20mode" value="1" />
+    <int name="auto_ads_mode_crossbow" value="2" />
+    <string name="StoreCatalogPath">%2Fcatalog%2Fplayfab%2Fc12267da-9c50-4b92-ba9a-c32d0de76edf.json</string>
+    <int name="com.unity.androidnotifications.PostNotificationsPermission" value="1" />
+    <int name="settings.last_tab" value="3" />
+    <int name="anti_aliasing_v3" value="0" />
+    <int name="game_info" value="1" />
+    <string name="KHFzZClpN31hYyNlMX10">TCMCADH3kjg%3D</string>
+    <int name="prompt_sign_in" value="0" />
+</map>
